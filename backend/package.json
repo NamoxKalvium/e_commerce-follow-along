@@ -1,12 +1,12 @@
 {
-  "name": "e_commerce-follow-along",
+  "name": "ecommerce-fa",
   "version": "1.0.0",
   "main": "server.js",
   "scripts": {
     "dev": "nodemon server.js",
     "start": "node server.js"
   },
-  "author": "Namo",
+  "author": "Ayan",
   "license": "ISC",
   "description": "",
   "dependencies": {
